@@ -1,0 +1,4 @@
+Tener instalad Python 3
+Instalar las librerias necesarias.
+Instalar los programas de analisis autoamticos dentro del script(stegdetec, stegExpose)
+Localizar los paths necesarios tanto para el analisis como para grabar las imagenes descargadas
